@@ -1,5 +1,5 @@
 The following is an exercept from a USA Today article [link](https://www.usatoday.com/story/tech/2019/12/09/how-remove-your-info-sites-like-mylife-spokeo-and-whitepages/2619131001/)
-> Spokeo
+> # Spokeo
 >
 > It's the easiest of the sites to work with and most responsive, but it's still a five-click process to remove your data. Start by looking up your name, copying the URL that's been created for you, hitting the BACK button on your browser and then clicking the PRIVACY tab. At the bottom of the page, in small letters, is Opt-Out. Click that, type in the URL you copied and your e-mail address. Spokeo says it will then quickly remove the data. In our tests, it was gone within a day.
 
