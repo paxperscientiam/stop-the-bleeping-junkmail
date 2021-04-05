@@ -7,11 +7,11 @@ The following is an exercept from a USA Today article [link](https://www.usatoda
 >
 > Search for your name, copy the URL created and go to the opt-out page, which is so hard to find, we're just going to give you the URL here: https://www.whitepages.com/suppression_requests. You will then be asked to confirm and then to give WhitePages a reason you don't want your personal information stored in their index. (A drop-down menu offers these choices: The info is incorrect, I'm getting too much spam and junk mail, I'm being harassed and I just want my information to be private.) Then WhitePages asks for you to offer your phone number and get a call back, from which you'll be asked to type in a confirmation code. 
 
-> ##BeenVerified 
+> ## BeenVerified 
 >
 > You can save a step by going straight to the privacy policy (hidden way down, at the bottom of the front page). From there, search for your name (and add the state you live in). Then type in your address and request to be let out. The company adds that it "will not sell the email address that you provide as part of the opt-out process, or use it for any other purpose, without your prior consent."
 
-> ##MyLife
+> ## MyLife
 >
 > The worst offender: MyLife won't let you opt-out without calling the company first. There's more.
 >
