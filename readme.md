@@ -8,3 +8,4 @@
 | [Spokeo](https://www.spokeo.com/optout)                                                                           | Remove your personal info      |
 | [Whitepages](https://www.whitepages.com/suppression_requests)                                                     | Remove your personal info      |
 | [Fisher House](https://fisherhouse.org/news-media/fisher-house-magazine-the-patriot/unsubscribe/)                 | Unsubscribe from magazine      |
+| [Truth Finder](https://www.truthfinder.com/opt-out/)								    | Remove your personal info	     |
