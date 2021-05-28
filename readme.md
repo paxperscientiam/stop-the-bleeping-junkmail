@@ -11,6 +11,7 @@
 | [Opt-out prescreened credit card offers](www.optoutprescreen.com)                                                 | Choice of five years or permanent |          |                |
 | Progressive 1-855-266-8485                                                                                        | Must call in (sucks)              | Insurer  |                |
 | [Emily's List](mailto:information@emilyslist.org?subject=OptOut%20of%20physical%20mail), 1-202-326-1400           | Call or email                     | PAC      |                |
+| [First Nations Development Institute](https://www.firstnations.org/privacy-policy/)                               |                                   |          |                |
 
 
 
