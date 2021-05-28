@@ -16,7 +16,7 @@
 
 
 
-
-IBA: Internet Based Advertisers
-PSE: People Search Engine
-PAC: Political Action Committee
+Acronyms
+* IBA: Internet Based Advertisers
+* PSE: People Search Engine
+* PAC: Political Action Committee
