@@ -1,7 +1,7 @@
 
 | Company                                                                                                           | Note                              | Type     | Secondary link |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------|----------------|
-| [Comcast/Xfinity](https://pc2.mypreferences.com/Comcast/OptOut/Default.aspx "opt-out")                            |                                   |          |                |
+| [Comcast/Xfinity](https://pc2.mypreferences.com/Comcast/OptOut/Default.aspx "opt-out")                            |                                   | telecom  |                |
 | [Best Buy](https://www.bestbuy.com/site/privacy-policy/faqs/pcmcat246200050011.c?id=pcmcat246200050011 "opt-out") |                                   | retailer |                |
 | [Spokeo](https://www.spokeo.com/optout)                                                                           | Remove your personal info         | PSE      |                |
 | [Whitepages](https://www.whitepages.com/suppression_requests)                                                     | Remove your personal info         | PSE      |                |
@@ -12,6 +12,7 @@
 | Progressive 1-855-266-8485                                                                                        | Must call in (sucks)              | Insurer  |                |
 | [Emily's List](mailto:information@emilyslist.org?subject=OptOut%20of%20physical%20mail), 1-202-326-1400           | Call or email                     | PAC      |                |
 | [First Nations Development Institute](https://www.firstnations.org/privacy-policy/)                               |                                   |          |                |
+| [Old Navy](https://secure-oldnavy.gap.com/my-account/unsubscribe)                                                 |                                   | retailer |                |
 
 
 
