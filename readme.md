@@ -13,8 +13,12 @@
 | [Emily's List](mailto:information@emilyslist.org?subject=OptOut%20of%20physical%20mail), 1-202-326-1400           | Call or email                     | PAC      |                |
 | [First Nations Development Institute](https://www.firstnations.org/privacy-policy/)                               |                                   |          |                |
 | [Old Navy](https://secure-oldnavy.gap.com/my-account/unsubscribe)                                                 |                                   | retailer |                |
+| [North Avenue News](http://www.northavenuenews.com/)                                                              | No known solution                 | circular |                |
 
 
+
+Helpful links:
+* https://zerojunkmail.org/every-door-direct-mail-eddm/
 
 
 Acronyms
