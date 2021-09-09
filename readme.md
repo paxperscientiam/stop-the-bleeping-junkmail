@@ -18,6 +18,8 @@
 
 
 Acronyms
+* ECRWSS: Enhanced Carrier Route Walk Sequence Saturation
+* EDDM: Every Door Direct Mail
 * IBA: Internet Based Advertisers
 * PSE: People Search Engine
 * PAC: Political Action Committee
