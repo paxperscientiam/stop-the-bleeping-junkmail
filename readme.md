@@ -20,6 +20,7 @@
 
 Helpful links:
 * https://zerojunkmail.org/every-door-direct-mail-eddm/
+* https://faq.usps.com/s/article/Refuse-unwanted-mail-and-remove-name-from-mailing-lists
 
 
 Acronyms
