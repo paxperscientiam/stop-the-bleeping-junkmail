@@ -17,6 +17,7 @@
 | [DMCAchoice](https://www.dmachoice.org) | Control direct mail (costs money) | | |
 | [FamilyTreeNow](https://www.familytreenow.com/optout) | Remove your personal info | PSE | |
 | [BeenVerified](https://www.beenverified.com/app/optout/search) | Remove your personal info | PSE | |
+| [email MyLife.com](privacy@mylife.com) | Remove your personal info | PSE | |
 
 
 
