@@ -16,6 +16,7 @@
 | [North Avenue News](http://www.northavenuenews.com/)                                                              | EDDM - No known solution                 | circular |                |
 | [DMCAchoice](https://www.dmachoice.org) | Control direct mail (costs money) | | |
 | [FamilyTreeNow](https://www.familytreenow.com/optout) | Remove your personal info | PSE | |
+| [BeenVerified](https://www.beenverified.com/app/optout/search) | Remove your personal info | PSE | |
 
 
 
