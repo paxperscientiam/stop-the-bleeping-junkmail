@@ -18,7 +18,7 @@
 | [FamilyTreeNow](https://www.familytreenow.com/optout) | Remove your personal info | PSE | |
 | [BeenVerified](https://www.beenverified.com/app/optout/search) | Remove your personal info | PSE | |
 | [email MyLife.com](privacy@mylife.com) | Remove your personal info | PSE | |
-
+| [Valassis/Vericast/save.com](https://valassis.com/opt-out/) | Unsubscribe from mail | | |
 
 
 Helpful links:
