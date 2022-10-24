@@ -1,29 +1,11 @@
-
-| Company                                                                                                           | Note                              | Type     | Secondary link |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------------|----------|----------------|
-| [Comcast/Xfinity](https://pc2.mypreferences.com/Comcast/OptOut/Default.aspx "opt-out")                            |                                   | telecom  |                |
-| [Best Buy](https://www.bestbuy.com/site/privacy-policy/faqs/pcmcat246200050011.c?id=pcmcat246200050011 "opt-out") |                                   | retailer |                |
-| [Spokeo](https://www.spokeo.com/optout)                                                                           | Remove your personal info         | PSE      |                |
-| [Whitepages](https://www.whitepages.com/suppression_requests)                                                     | Remove your personal info         | PSE      |                |
-| [Fisher House](https://fisherhouse.org/news-media/fisher-house-magazine-the-patriot/unsubscribe/)                 | Unsubscribe from magazine         |          |                |
-| [Truth Finder](https://www.truthfinder.com/opt-out/)                                                              | Remove your personal info         | PSE      |                |
-| [Digital Advertising Alliance](https://optout.aboutads.info/?c=2&lang=EN)                                         | Partners with IBAs                |          |                |
-| [Opt-out prescreened credit card offers](www.optoutprescreen.com)                                                 | Choice of five years or permanent |          |                |
-| Progressive 1-855-266-8485                                                                                        | Must call in (sucks)              | Insurer  |                |
-| [Emily's List](mailto:information@emilyslist.org?subject=OptOut%20of%20physical%20mail), 1-202-326-1400           | Call or email                     | PAC      |                |
-| [First Nations Development Institute](https://www.firstnations.org/privacy-policy/)                               |                                   |          |                |
-| [Old Navy](https://secure-oldnavy.gap.com/my-account/unsubscribe)                                                 |                                   | retailer |                |
-| [North Avenue News](http://www.northavenuenews.com/)                                                              | EDDM - No known solution                 | circular |                |
-| [DMCAchoice](https://www.dmachoice.org) | Control direct mail (costs money) | | |
-| [FamilyTreeNow](https://www.familytreenow.com/optout) | Remove your personal info | PSE | |
-| [BeenVerified](https://www.beenverified.com/app/optout/search) | Remove your personal info | PSE | |
-| [email MyLife.com](privacy@mylife.com) | Remove your personal info | PSE | |
-| [Valassis/Vericast/save.com](https://valassis.com/opt-out/) | Unsubscribe from mail | | |
+Data:
+- /data/guidance.csv
 
 
-Helpful links:
+Interesting links:
 * https://zerojunkmail.org/every-door-direct-mail-eddm/
 * https://faq.usps.com/s/article/Refuse-unwanted-mail-and-remove-name-from-mailing-lists
+* https://www.dmachoice.org/
 
 
 Acronyms
